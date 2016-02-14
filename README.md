@@ -1,3 +1,3 @@
 # test_repository
 
-# Testing this repository
+Testing this repository
